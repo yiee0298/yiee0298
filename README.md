@@ -14,7 +14,7 @@
 * **可视化**： Tableau、Power BI、Matplotlib、Echarts（Web地图可视化）
 * **数据库**: PostgreSQL/PostGIS
 
-* ### 作品集 (My Portfolio)
+### 作品集 (My Portfolio)
 
 下面是我在研究生期间完成的部分项目，欢迎点击查看。我创建了一个总的作品集仓库来存放。
 
