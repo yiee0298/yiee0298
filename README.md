@@ -21,9 +21,7 @@
 ➡️ **[点击这里查看我的GIS作品集](https://github.com/yiee0298/MyPortfolio)** ⬅️
 
 * **[项目一：马达加斯加飞行航线优化分析](https://github.com/yiee0298/MyPortfolio/tree/main/Madagascar-Flight-Route-Optimization)**
-    * [cite_start]*简介：通过对比分析不同地图投影，成功为模拟航线降低了5.52%的燃油成本 [cite: 283]。*
-
-    * 
+    **简介：通过对比分析不同地图投影，成功为模拟航线降低了5.52%的燃油成本 [cite: 283]。*
 ---
 
 ### 如何联系我 (Contact Me)
